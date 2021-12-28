@@ -1,1 +1,3 @@
-# JS_demo - a tutorial from Jonas Schmedtmann's Complete JavaScript Course: From Zero to Expert. 
+# JS_demo 
+
+# My take on a tutorial from Jonas Schmedtmann's 'Complete JavaScript Course: From Zero to Expert'.
